@@ -1,5 +1,4 @@
-
-<project name="Google Search Automation" default="clean" basedir=".">
+<project name="iOS Automation" default="clean" basedir=".">
 <!-- ********Initialize properties***********  --> 
     <property name="build.dir" value="${basedir}/build"/>
     <property name="lib.dir" value="${basedir}/lib"/>
