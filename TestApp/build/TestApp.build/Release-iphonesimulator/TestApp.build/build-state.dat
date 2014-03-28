@@ -1,0 +1,385 @@
+TTestApp
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TestApp-Info.plist
+cProcessPCH /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch Test\ App\ 2/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TA2AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp normal i386
+cGenerateDSYMFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+cCompileXIB /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.xib
+cCopyStringsFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings Test\ App\ 2/en.lproj/InfoPlist.strings
+cCompileXIB /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.xib
+cCpResource Default-568h@2x.png build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png
+cTouch /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000531D930200000000000003B5
+t1394447106
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531D930800000000000001A0
+t1394447112
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531D930A0000000000445870
+t1394447114
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531D930A00000000000EC820
+t1394447114
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531D930B000000000088C680
+t1394447115
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000531D930C00000000002C78D0
+t1394447116
+s2914512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531D930F0000000001DB9910
+t1394447119
+s31168784
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Default-568h@2x.png
+c00000000531D62B400000000000048A2
+t1394434740
+s18594
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.m
+c00000000531D62B40000000000000410
+t1394434740
+s1040
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.xib
+c00000000531D62B40000000000000B9A
+t1394434740
+s2970
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.m
+c00000000531D62B40000000000001201
+t1394434740
+s4609
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.xib
+c00000000531D62B40000000000002995
+t1394434740
+s10645
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.m
+c00000000531D62B40000000000000D40
+t1394434740
+s3392
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TestApp-Info.plist
+c00000000531D62B400000000000004E7
+t1394434740
+s1255
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TestApp-Prefix.pch
+c00000000531D62B4000000000000041E
+t1394434740
+s1054
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/en.lproj/InfoPlist.strings
+c00000000531D62B4000000000000036A
+t1394434740
+s874
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/main.m
+c00000000531D62B4000000000000043A
+t1394434740
+s1082
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app
+t1394518241
+s306
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM
+t2
+s0
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png
+t1394518238
+s18594
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/GestureTestViewController.nib
+t1394518240
+s136
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist
+t1394518237
+s817
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/MyViewControllerViewController.nib
+t1394518241
+s136
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/PkgInfo
+t1394518237
+s8
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+t1394518238
+s36692
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+t1394518238
+s42
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o
+t1394518238
+s52324
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o
+t1394518238
+s81492
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o
+t1394518238
+s67472
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+c00000000531EA8DD000000000000026D
+t1394518237
+s621
+
+N/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+t1394518238
+s3140
+
+N/var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch
+t1394518238
+s5332408
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf81ace5de0ceb841^68caf25de0ceb841^---0#1#1#--18"Check dependencies36"554DE063-71A9-4B91-B094-D58115BEF10C-
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416211038.550489
+e416211038.705465
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.m
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.m239"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o [1mTest\ App\ 2/GestureTestViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb1188d5ee0ceb841^b398b45ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/GestureTestViewController.m0000000000000000^3832"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o [1mTest\ App\ 2/GestureTestViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.d --serialize-diagnostics /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.dia -c /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.m -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o36"8763019E-F484-4284-9BE6-B31514F99B03-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416211038.549020
+e416211038.717791
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.m
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.h
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.m249"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o [1mTest\ App\ 2/MyViewControllerViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler47e78c5ee0ceb841^9cc1b75ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/MyViewControllerViewController.m0000000000000000^3862"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o [1mTest\ App\ 2/MyViewControllerViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.d --serialize-diagnostics /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.dia -c /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.m -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o36"E3049B7E-0A7B-415F-B758-BC76C9554F33-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TA2AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416211038.548938
+e416211038.705447
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.m
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.h
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.h
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.m217"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o [1mTest\ App\ 2/TA2AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ede8c5ee0ceb841^5a9db45ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/TA2AppDelegate.m0000000000000000^3766"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o [1mTest\ App\ 2/TA2AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.d --serialize-diagnostics /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.dia -c /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TA2AppDelegate.m -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o36"0F181689-0FE2-4E64-B640-59D3412E1350-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416211038.548988
+e416211038.694400
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/main.m
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TA2AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/main.m197"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o [1mTest\ App\ 2/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere0db8c5ee0ceb841^2ac6b15ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/main.m0000000000000000^3706"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o [1mTest\ App\ 2/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.dia -c /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/main.m -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o36"C2D2B233-74EB-4995-85E3-AE46456CC630-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCompileXIB /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.xib
+s416211038.824980
+e416211040.219969
+r1
+xCompileXIB
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/GestureTestViewController.xib69"[1mCompileXIB[0m [1mTest\ App\ 2/GestureTestViewController.xib[0ma244d35ee0ceb841^33513860e0ceb841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/GestureTestViewController.xib0000000000000000^917"[1mCompileXIB[0m [1mTest\ App\ 2/GestureTestViewController.xib[0m    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/GestureTestViewController.nib /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/GestureTestViewController.xib36"4F3CBB8D-5F0B-4C58-86E5-E840B19CF207-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCompileXIB /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.xib
+s416211038.824965
+e416211041.066490
+r1
+xCompileXIB
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/MyViewControllerViewController.xib74"[1mCompileXIB[0m [1mTest\ App\ 2/MyViewControllerViewController.xib[0m9144d35ee0ceb841^f3051161e0ceb841^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/MyViewControllerViewController.xib0000000000000000^932"[1mCompileXIB[0m [1mTest\ App\ 2/MyViewControllerViewController.xib[0m    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/MyViewControllerViewController.nib /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/MyViewControllerViewController.xib36"C75D22F9-5D9C-477B-A240-9DE74A96EBDE-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCopyStringsFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings Test\ App\ 2/en.lproj/InfoPlist.strings
+s416211038.824976
+e416211038.830214
+r1
+xCopyStringsFile
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+xTest App 2/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Test App 2/en.lproj/InfoPlist.strings132"[1mCopyStringsFile[0m build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings Test\ App\ 2/en.lproj/InfoPlist.stringsdc46d35ee0ceb841^d289d45ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/en.lproj/InfoPlist.strings0000000000000000^688"[1mCopyStringsFile[0m build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings Test\ App\ 2/en.lproj/InfoPlist.strings    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj -- Test\ App\ 2/en.lproj/InfoPlist.strings36"8389807A-AC75-4A7C-909F-F3EADE7DFA4C-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CCpResource Default-568h@2x.png build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png
+s416211038.825008
+e416211038.830996
+r1
+xCpResource
+xDefault-568h@2x.png
+xbuild/Release-iphonesimulator/TestApp.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png100"[1mCpResource[0m Default-568h@2x.png build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png2b4cd35ee0ceb841^aebcd45ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png003840d9dcffdf42^702"[1mCpResource[0m Default-568h@2x.png build/Release-iphonesimulator/TestApp.app/Default-568h@2x.png    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Default-568h@2x.png /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app36"95DB2D02-C94A-4A19-98EB-445A8D7252F7-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CGenerateDSYMFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+s416211038.786228
+e416211038.816445
+r1
+xGenerateDSYMFile
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM129"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TestApp.app.dSYM[0m build/Release-iphonesimulator/TestApp.app/TestAppb858c95ee0ceb841^bc02d15ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM003840d9dcffdf42^757"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TestApp.app.dSYM[0m build/Release-iphonesimulator/TestApp.app/TestApp    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM36"15F0C4E1-42AC-401D-B5F4-0FB433BC030B-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CLd /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp normal i386
+s416211038.728345
+e416211038.777306
+r1
+xLd
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+xnormal
+xi386
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TA2AppDelegate.o
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/MyViewControllerViewController.o
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/GestureTestViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Link /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp72"[1mLd[0m build/Release-iphonesimulator/TestApp.app/TestApp normal i3866ea6ba5ee0ceb841^b9fdc65ee0ceb841^---0#0#1#--1535"[1mLd[0m build/Release-iphonesimulator/TestApp.app/TestApp normal i386    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -filelist /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp_dependency_info.dat -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp36"2030BFA4-BBE7-4547-BFDF-3DE24385675F-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CProcessInfoPlistFile /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TestApp-Info.plist
+s416211037.952494
+e416211037.955624
+r1
+xProcessInfoPlistFile
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist
+x/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TestApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TestApp-Info.plist121"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TestApp.app/Info.plist [1mTest\ App\ 2/TestApp-Info.plist[0mc3f2f35de0ceb841^d7a3f45de0ceb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/TestApp-Info.plist0000000000000000^846"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TestApp.app/Info.plist [1mTest\ App\ 2/TestApp-Info.plist[0m    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    builtin-infoPlistUtility /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TestApp-Info.plist -genpkginfo /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist36"7989F7AE-19DF-4653-8926-14EC01775565-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CProcessPCH /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch Test\ App\ 2/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416211037.965435
+e416211038.539492
+r1
+xProcessPCH
+x/var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch
+xTest App 2/TestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test App 2/TestApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Test App 2/TestApp-Prefix.pch303"[1mProcessPCH[0m /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch Test\ App\ 2/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd653f75de0ceb841^a01b8a5ee0ceb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test%20App%202/TestApp-Prefix.pch0000000000000000^3769"[1mProcessPCH[0m /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch Test\ App\ 2/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/agalya/Documents/Appium/sample-code/apps/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/agalya/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.d -c /Users/agalya/Documents/Appium/sample-code/apps/TestApp/Test\ App\ 2/TestApp-Prefix.pch -o /var/folders/j4/9nkyc2117xg03m0j_1c40vg80000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-betrgvgizmpbsiafbqfquqyecete/TestApp-Prefix.pch.pch36"BDDA6D32-0594-4047-AA84-13F8D84638BE-
+bABC982E5-83B3-46CF-9DC7-859BC5282C52
+
+CTouch /Users/agalya/Documents/Appium/sample-code/apps/TestApp/build/Release-iphonesimulator/TestApp.app
+r0
+
