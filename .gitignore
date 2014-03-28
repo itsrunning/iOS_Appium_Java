@@ -9,8 +9,8 @@
 .metadata
 .gradle
 test-output/
-lib/*
 build/
+lib/
 buildlogs/
 bin/
 tmp/
@@ -20,7 +20,6 @@ tmp/
 *~.nib
 local.properties
 .loadpath
-!.gitignore
 
 # External tool builders
 .externalToolBuilders/
