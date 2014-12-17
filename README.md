@@ -15,11 +15,10 @@ A iOS app automation framework using JAVA and [APPIUM](http://appium.io/)
 
 ###Appium IOS setup:
 
-1. Install node.js (includes npm, the node.js package manager).
-2. sudo npm install -g appium
-3. sudo npm install wd
-4. sudo authorize_ios (authorise the use of iOS simulator)
-5. appium & (start appium server. default port 4723)
+1. Install node.js
+2. npm install -g appium
+3. npm install wd
+4. appium & (start appium server. default port 4723)
 
 ###Cloning the repository
 ```ruby
